@@ -1,0 +1,16 @@
+
+form{
+margin: auto;
+width: 500px;
+
+}
+
+h2,input ,label{
+    text-align: center;
+    padding: 5px;
+    display: block;
+}
+.all{
+padding-right: 335px;
+}
+

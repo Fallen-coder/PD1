@@ -1,0 +1,9 @@
+body{
+    margin: auto;
+    text-align: center;
+    padding: 5px;
+}
+
+input{
+    padding-inline: 40px;
+}
